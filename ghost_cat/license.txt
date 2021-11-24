@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ghost cat
+* source:	https://sketchfab.com/3d-models/ghost-cat-6cc42ce74b3a456c9dbea4c601ccfd6f
+* author:	Kwituki (https://sketchfab.com/kwituki)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ghost cat" (https://sketchfab.com/3d-models/ghost-cat-6cc42ce74b3a456c9dbea4c601ccfd6f) by Kwituki (https://sketchfab.com/kwituki) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
