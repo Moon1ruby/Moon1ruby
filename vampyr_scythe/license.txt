@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vampyr scythe
+* source:	https://sketchfab.com/3d-models/vampyr-scythe-6b6b44d8e89f4bd09b8612d013dc03ad
+* author:	brendan wood (https://sketchfab.com/brendanwood872)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vampyr scythe" (https://sketchfab.com/3d-models/vampyr-scythe-6b6b44d8e89f4bd09b8612d013dc03ad) by brendan wood (https://sketchfab.com/brendanwood872) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
