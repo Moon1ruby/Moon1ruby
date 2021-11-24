@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pyroslinger's Rifle
+* source:	https://sketchfab.com/3d-models/pyroslingers-rifle-62afeb92cbd74f1f94d6214d3723ce9f
+* author:	0x384c0 (https://sketchfab.com/0x384c0)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pyroslinger's Rifle" (https://sketchfab.com/3d-models/pyroslingers-rifle-62afeb92cbd74f1f94d6214d3723ce9f) by 0x384c0 (https://sketchfab.com/0x384c0) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
